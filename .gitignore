@@ -1,0 +1,17 @@
+# Python artifacts
+__pycache__/
+*.py[cod]
+*$py.class
+
+# VS Code and editor files
+.vscode/
+*.code-workspace
+.claude/
+
+# Generated video output
+convertidos/
+TDMovieOut.0.mov
+*_Out.mov
+
+# Local large media files not intended for repo upload
+🎸Donkey Kong Country 🍌 Feel Good Jungle _ Gorillaz Inspired Remix [Ne4_ggSoTZw] (1).mp3
